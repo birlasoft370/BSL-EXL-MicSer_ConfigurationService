@@ -11,7 +11,7 @@
         internal static readonly string TokenKey = "X-Token-Id";
         internal static readonly string TokenInfo = "X-Token-In";
         internal static readonly string CorrelationIdHeader = "X-Correlation-Id";
-        internal static readonly string ConnectionString;
+        internal static readonly string ConnectionString = "";
 
     }
 }
